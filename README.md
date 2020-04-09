@@ -54,6 +54,9 @@ Foram utilizados os pacotes:
  - Demorei mais que devia pois estou com meu filho em casa devido as novidades do COVID-19 e trabalho em período comercial
  - A tela de formulário de cadastro não condiz exatamente com as User Stories (divergência de campos e informações)
  - Demorei mais que devia pois estou com meu filho em casa devido as novidades do COVID-19 e trabalho em período comercial
+ - Usei fonts do Material Design por não ter as fontes do protótipo
+ - Não adicionei a imagem de fundo na tela de login pois não a tinha
+ - Não entendi o requisito para usuário Anônimo, uma vez que não possui nenhuma forma de acesso anônimo segundo o protótipo
  
  ###### Vídeo do app em testes
  [Assista ao vídeo](https://drive.google.com/file/d/12m_dfaqFDJTCUrLrDbl-H-Hcxz-hwB9c/view?usp=sharing)
