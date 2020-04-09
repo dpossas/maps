@@ -44,7 +44,6 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        // mainifestPlaceholders = [mapsApiKey: "$System.env.GMAPS_API_KEY"]
         multiDexEnabled true
     }
 
